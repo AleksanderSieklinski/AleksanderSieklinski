@@ -17,10 +17,12 @@ Master of Engineering (M.Eng.) student in Applied Computer Science at Warsaw Uni
 ### 💼 Professional Experience
 
 **TransactionLink** — *Solutions Architect* (Feb 2025 – Present)
-* Designed and deployed automation workflows to streamline onboarding processes for business clients, integrating web scraping and AI-driven business risk analysis.
-* Automated data extraction and validation against public registries, processing hundreds of queries daily.
-* Implemented automated integration tests via REST APIs to verify system stability and data flow reliability.
-* Reduced manual processing time by over 10 minutes per client.
+* Designed and developed automation workflows for business client onboarding, handling hundreds of requests daily, decreasing
+manual processing time by over 15 minutes per request
+* Implemented automated tests for integration workflows utilizing REST APIs to ensure system stability
+* Automated data extraction and public registry verification, reducing manual processing time by over 10 minutes per client
+* Integrated AI into automation workflows to analyze business risk based on scraped website data and public registry
+information
 
 ---
 
