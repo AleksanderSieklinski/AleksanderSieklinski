@@ -26,7 +26,7 @@ Master of Engineering (M.Eng.) student in Applied Computer Science at Warsaw Uni
 
 ### 🚀 Featured Projects
 
-#### [Comparative Analysis of Data Storage Formats](https://github.com/AleksanderSieklinski) (Python)
+#### [Comparative Analysis of Data Storage Formats](https://github.com/AleksanderSieklinski/Comparative-analysis-of-data-storage-formats) (Python)
 * Built a benchmarking application evaluating read/write speeds, compression ratios, and file sizes across multi-gigabyte datasets.
 * Compared row-based vs. columnar formats: CSV, JSON, Avro, Parquet, ORC, and PostgreSQL/Apache Iceberg.
 * Utilized **Pandas**, **PyArrow**, **FastAvro**, and **psycopg2**; integrated **MinIO** via **boto3** to simulate remote object storage access.
